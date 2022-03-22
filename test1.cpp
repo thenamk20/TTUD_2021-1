@@ -7,11 +7,17 @@ int add(int a, int b){
 }
 
 int minutes(int a, int b){
-    return b-a;
+    return a -b;
+}
+
+int divide(int a, int b){
+    return (float)a/b;
 }
 
 int main(){
-
+    
+    
+    
     // don't do anything
     int b = 100;
     cout << "hihi" << endl;

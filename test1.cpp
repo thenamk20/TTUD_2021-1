@@ -6,6 +6,10 @@ int add(int a, int b){
     return a + b*10;
 }
 
+int minutes(int a, int b){
+    return b-a;
+}
+
 int main(){
 
     // don't do anything

@@ -9,9 +9,9 @@ int add(int a, int b){
 int main(){
 
     // don't do anything
-    int b = 105;
+    int b = 100;
     cout << "hihi" << endl;
-    cout << "continue change!!" << endl;
+    cout << "continue change!! ;((" << endl;
 
     return 0;
 }
